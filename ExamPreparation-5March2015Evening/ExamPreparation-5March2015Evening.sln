@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculationProblem", "CalculationProblem\CalculationProblem.csproj", "{FF71B3FD-2C20-461E-A3BD-F909FAB87DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenDifferences", "EvenDifferences\EvenDifferences.csproj", "{AD1E5AFF-2253-4006-A59D-E1B76B70D699}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoverOfThree", "LoverOfThree\LoverOfThree.csproj", "{EB6D4A0D-CC8B-4618-9CF4-CE69CF310522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konspiration", "Konspiration\Konspiration.csproj", "{02C2106B-5567-4728-9DE9-A19C0CE85BB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF71B3FD-2C20-461E-A3BD-F909FAB87DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF71B3FD-2C20-461E-A3BD-F909FAB87DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF71B3FD-2C20-461E-A3BD-F909FAB87DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF71B3FD-2C20-461E-A3BD-F909FAB87DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD1E5AFF-2253-4006-A59D-E1B76B70D699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1E5AFF-2253-4006-A59D-E1B76B70D699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1E5AFF-2253-4006-A59D-E1B76B70D699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1E5AFF-2253-4006-A59D-E1B76B70D699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB6D4A0D-CC8B-4618-9CF4-CE69CF310522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB6D4A0D-CC8B-4618-9CF4-CE69CF310522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB6D4A0D-CC8B-4618-9CF4-CE69CF310522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB6D4A0D-CC8B-4618-9CF4-CE69CF310522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02C2106B-5567-4728-9DE9-A19C0CE85BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C2106B-5567-4728-9DE9-A19C0CE85BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C2106B-5567-4728-9DE9-A19C0CE85BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C2106B-5567-4728-9DE9-A19C0CE85BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
