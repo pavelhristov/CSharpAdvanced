@@ -7,12 +7,12 @@
       static void Main()
       {
          //input
-         string str = Console.ReadLine().Replace(@"\", string.Empty);
+         string str = Console.ReadLine();
 
          //logic & output
          for (int i = 0; i < str.Length; i++)
          {
-            Console.Write("\\u" + ((int)str[i]).ToString("X4"));
+            Console.Write("\\u{0:X4}",(int)str[i]);
          }
       }
    }

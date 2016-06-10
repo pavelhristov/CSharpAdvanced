@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NineGagNumbers", "NineGagNumbers\NineGagNumbers.csproj", "{8F31BF7F-F46C-4A45-8D5A-A0C09F65E426}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialValue", "SpecialValue\SpecialValue.csproj", "{48C950FF-4D6A-41BF-B523-CECF54D494CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KukataIsDancing", "KukataIsDancing\KukataIsDancing.csproj", "{B324881F-69D6-40CE-A9A4-652522AC0666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F31BF7F-F46C-4A45-8D5A-A0C09F65E426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F31BF7F-F46C-4A45-8D5A-A0C09F65E426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F31BF7F-F46C-4A45-8D5A-A0C09F65E426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F31BF7F-F46C-4A45-8D5A-A0C09F65E426}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C950FF-4D6A-41BF-B523-CECF54D494CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C950FF-4D6A-41BF-B523-CECF54D494CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C950FF-4D6A-41BF-B523-CECF54D494CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C950FF-4D6A-41BF-B523-CECF54D494CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B324881F-69D6-40CE-A9A4-652522AC0666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B324881F-69D6-40CE-A9A4-652522AC0666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B324881F-69D6-40CE-A9A4-652522AC0666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B324881F-69D6-40CE-A9A4-652522AC0666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

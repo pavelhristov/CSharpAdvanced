@@ -20,17 +20,7 @@
          StringBuilder url = new StringBuilder();
          url.Append("(");
 
-         if (str[0] == '<')
-         {
-            if (str[1] != 'a')
-            {
-               builder.Append(str[0]);
-            }
-         }
-         else
-         {
-            builder.Append(str[0]);
-         }
+         builder.Append(str[0]);
 
          for (int i = 1; i < str.Length; i++)
          {
