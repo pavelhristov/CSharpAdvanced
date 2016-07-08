@@ -30,7 +30,6 @@
                var current = num % 10;
                num /= 10;
                result1 += current * Power(7, i);
-
             }
          }
 
